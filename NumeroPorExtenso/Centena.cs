@@ -9,22 +9,22 @@ namespace NumeroPorExtenso
     {
         public string CentenaPorExtenso(int numero)
         {
-        string retorno = "";
-        Unidade unidade = new Unidade();
+            string retorno = "";
+            Dezena dezena = new Dezena();
 
-         if ( numero >= 100 && numero <=199 )
-        {
-            if (numero == 100)
-            retorno = "Cem";
-
-            else 
+            if (numero >= 100 && numero <= 199)
             {
-                string und = numero.ToString().Substring(2,1);
-                retorno = "Cento e ";
-                retorno += unidade.UnidadePorExtenso(Convert.ToInt32(und));
+                if (numero == 100)
+                    retorno = "Cem";
+
+                else
+                {
+                    string und = numero.ToString().Substring(1, 2);
+                    retorno = "Cento e ";
+                    retorno += dezena.DezenaPorExtenso(Convert.ToInt32(und));
+                }
             }
-        }
-        return retorno;
+            return retorno;
 
         }
 
