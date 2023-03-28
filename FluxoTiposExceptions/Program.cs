@@ -32,4 +32,13 @@ Console.WriteLine ($"/={p}");
 bool a = true;
 bool b = false;
 WriteLine($" AND | a   | b  ");
-WriteLine($"a    |{a & a, -5} | {a & b, -5}")
+WriteLine($"a    |{a & a, -5} | {a & b, -5}");
+
+static bool FacaAlgo()
+{
+    WriteLine("fazenfo alguma coisa");
+    return true;
+}
+WriteLine();
+WriteLine($"a & facaAlgo() = {a & FacaAlgo()}");
+WriteLine($"b & facaAlgo() = {b & FacaAlgo()}");
