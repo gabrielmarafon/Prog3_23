@@ -39,7 +39,13 @@ for (int i = 0; i < people.Length; i++)
     message = $"Nome: {people[i].Name} ";
     message += $"Gênero: {people[i].Gender} ";
     message += $"Data Nasc: {people[i].DateBorn.ToShortDateString()} ";
-    message += $"Setores Subordinados: {people[i].SubordinateSectores}"
+
+    if (people[i] is Manager )
+    {
+        Manager manager = people[i] as Manager;
+        message += $"Setores Subordinados: {manager.SubordinateSectors} ";
+        message += $"Setores Subordinados: {manager.Wage} ";
+    }
+
     Console.WriteLine(message);
 }
-
