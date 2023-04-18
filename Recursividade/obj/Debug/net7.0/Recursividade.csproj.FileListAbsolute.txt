@@ -1,0 +1,15 @@
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.exe
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.deps.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.runtimeconfig.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.csproj.AssemblyReference.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfoInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfo.cs
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\refint\Recursividade.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.genruntimeconfig.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Recursividade\obj\Debug\net7.0\ref\Recursividade.dll
