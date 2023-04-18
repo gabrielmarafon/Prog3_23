@@ -35,3 +35,21 @@ static long Fibonacci(int n )
     
     return Fibonacci(n - 1) + Fibonacci(n - 2);
 }
+
+static int MultiplicarWhile(int n)
+{
+    int fator = 10;
+    while(fator <= 10)
+    {
+        Console.WriteLine($"{n} x {fator} = {n * fator}");
+        fator++
+    }
+}
+
+static void MultiplicarFor(int n)
+{
+    for(int i = 1; i <= 10; i++ )
+    {
+        Console.WriteLine($"{n} * {i} = {n * i}");
+    }
+}
