@@ -57,8 +57,8 @@ for (int i = 0; i < people.Length; i++)
     if (people[i] is Worker )
     {
         Worker worker = people[i] as Worker;
-        message += $"Empregados Subordinados: {worker.IdentificationNumber} ";
-        message += $"Salário: {worker.Function} ";
+        message += $"Número de Identificação: {worker.IdentificationNumber} ";
+        message += $"Função: {worker.Function} ";
         message += $"Salário: {worker.Wage} ";
     }
     Console.WriteLine(message);
