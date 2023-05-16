@@ -1,0 +1,15 @@
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.exe
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.deps.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.runtimeconfig.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.csproj.AssemblyReference.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.AssemblyInfoInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.AssemblyInfo.cs
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\refint\TratamentoErros.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.genruntimeconfig.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\TratamentoErros\obj\Debug\net7.0\ref\TratamentoErros.dll

@@ -1,0 +1,15 @@
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\bin\Debug\net7.0\AtivPratica.exe
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\bin\Debug\net7.0\AtivPratica.deps.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\bin\Debug\net7.0\AtivPratica.runtimeconfig.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\bin\Debug\net7.0\AtivPratica.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\bin\Debug\net7.0\AtivPratica.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.csproj.AssemblyReference.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.AssemblyInfoInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.AssemblyInfo.cs
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.csproj.CoreCompileInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\refint\AtivPratica.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\AtivPratica.genruntimeconfig.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\AtivPratica\AtivPratica\obj\Debug\net7.0\ref\AtivPratica.dll
