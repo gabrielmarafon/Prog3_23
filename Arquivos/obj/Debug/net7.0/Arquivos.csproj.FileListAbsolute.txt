@@ -1,0 +1,15 @@
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\Faculdade\3º Semestre\Prog 1\Exe\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll
