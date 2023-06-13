@@ -30,6 +30,7 @@ namespace Arquivos.Views
             Console.WriteLine("4 - Importar Clientes");
             Console.WriteLine("");
             int option = 0;
+            option = Convert.ToInt32(Console.ReadLine());
             switch(option)
             {
                 case 1 :
@@ -37,7 +38,33 @@ namespace Arquivos.Views
                 break;
                 default:
                 break;
+
+                case 2 :
+                    List();
+                break;
             }
+        }
+
+        private void List()
+        {
+            List<Client> listagem = clientController.List();
+
+            for(int i = 0; i < listagem.Count; i++)
+            {
+                Console.WriteLine(Print(listagem[i]));
+            }
+        }
+
+        
+
+        private string Print(Client client)
+        {
+            string retorno = "";
+            retorno += $"Id: {client.Id} \n";
+            retorno += $"Nome: {client.FirstName} {client.LastName}";
+            retorno += "-------------------------------------------";
+
+            return retorno;
         }
 
         private void Insert()
@@ -56,6 +83,11 @@ namespace Arquivos.Views
 
             Console.WriteLine("Informe o email: ");
             client.Email = Console.ReadLine();
+
+            bool retorno = clientController.Insert(client);
+
+            if(retorno)
+                Console.WriteLine("Cliente Inserido com sucesso!");
         }
     }
 }
