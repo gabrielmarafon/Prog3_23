@@ -26,7 +26,7 @@ namespace Arquivos.Views
             Console.WriteLine("");
             Console.WriteLine("1 - Inserir Cliente");
             Console.WriteLine("2 - Listar Clientes");
-            Console.WriteLine("3 - Exportar Clientes");
+            Console.WriteLine("3 - Exprtar Clientes");
             Console.WriteLine("4 - Importar Clientes");
             Console.WriteLine("");
             int option = 0;
@@ -41,14 +41,6 @@ namespace Arquivos.Views
 
                 case 2 :
                     List();
-                break;
-
-                case 3 :
-                    Export();
-                break;
-
-                case 4 :
-                    Import();
                 break;
             }
         }
@@ -69,8 +61,8 @@ namespace Arquivos.Views
         {
             string retorno = "";
             retorno += $"Id: {client.Id} \n";
-            retorno += $"Nome: {client.FirstName} {client.LastName}\n";
-            retorno += "-------------------------------------------\n";
+            retorno += $"Nome: {client.FirstName} {client.LastName}";
+            retorno += "-------------------------------------------";
 
             return retorno;
         }
@@ -96,23 +88,6 @@ namespace Arquivos.Views
 
             if(retorno)
                 Console.WriteLine("Cliente Inserido com sucesso!");
-
-            else Console.WriteLine("Falha ao inserir, verifique os dados");
         }
-        private void Export()
-        {
-            if(clientController.ExportToTextFile())
-                Console.WriteLine("Arquivo gerado com sucesso!");          
-            else
-                Console.WriteLine("Ooooops.");
-        }
-        private void Import()
-        {
-            if(clientController.ImportFromTxtFile())
-                Console.WriteLine("Arquivo gerado com sucesso!");          
-            else
-                Console.WriteLine("Ooooops.");
-        }
-
     }
 }
