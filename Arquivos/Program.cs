@@ -1,9 +1,11 @@
 ﻿using Arquivos.Views;
+using Arquivos.Utils;
 
 /*
     programa para leitura e exportação em arquivos .txt
 */
 
+Bootstrapper.ChangeClients();
 
 int option = 0;
 

@@ -33,5 +33,13 @@ namespace Arquivos.Models
             CPF = cPF;
             Email = email;
         }//fim do escopo deste método
+
+        public string FullName => $"{this.FirstName} {this.LastName}";
+
+        public override string ToString()
+        {
+            return $"Id: {this.Id}; Name: {this.FullName}";
+        }
+
     }//fim do escopo da classe
 }// fim do escopo do namespace
