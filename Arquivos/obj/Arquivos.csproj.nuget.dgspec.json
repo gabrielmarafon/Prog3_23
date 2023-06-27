@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\Arquivos\\Arquivos.csproj": {}
+    "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\arquivos\\Arquivos.csproj": {}
   },
   "projects": {
-    "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\Arquivos\\Arquivos.csproj": {
+    "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\arquivos\\Arquivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\Arquivos\\Arquivos.csproj",
+        "projectUniqueName": "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\arquivos\\Arquivos.csproj",
         "projectName": "Arquivos",
-        "projectPath": "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\Arquivos\\Arquivos.csproj",
+        "projectPath": "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\arquivos\\Arquivos.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\Arquivos\\obj\\",
+        "outputPath": "C:\\Faculdade\\3º Semestre\\Prog 1\\Exe\\arquivos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
