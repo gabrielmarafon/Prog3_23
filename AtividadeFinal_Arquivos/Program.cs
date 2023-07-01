@@ -14,9 +14,9 @@ int option = 0;
 
 do 
 {
-    Console.WriteLine("*******************");
+    Console.WriteLine("********************");
     Console.WriteLine("Programa para leitura e exportação de dados");
-    Console.WriteLine("*******************");
+    Console.WriteLine("********************");
     Console.WriteLine("");
     Console.WriteLine("1 - Clientes");
     Console.WriteLine("2 - Clinica");
