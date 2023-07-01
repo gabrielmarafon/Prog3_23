@@ -1,0 +1,4 @@
+1;Ducão;Avenida Brasil, 55, Centro;49 91234-5678
+2;Ducat;Avenida Amazonas, 99, Matriz;49 99876-5432
+3;Amor de Pet;Rua dos Carecas, 178, Centro;49 97648-9132
+4;Clinica Ducão;rua da esperança, 22, centro;49 99874-2345

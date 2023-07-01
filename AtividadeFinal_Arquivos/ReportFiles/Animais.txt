@@ -1,0 +1,4 @@
+1;Quatro;Cachorro;Macho; Preto
+2;2;Pato;Macho; Branco
+3;Quatro;Gato;Femea; Azul
+4;4;cachorro;macho; branco
