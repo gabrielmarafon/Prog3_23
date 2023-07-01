@@ -18,10 +18,10 @@ do
     Console.WriteLine("Programa para leitura e exportação de dados");
     Console.WriteLine("*******************");
     Console.WriteLine("");
-    Console.WriteLine(" 1 - Clientes ");
-    Console.WriteLine(" 2 - Clinica ");
-    Console.WriteLine(" 3 - Doutor ");
-    Console.WriteLine(" 4 - Animal ");
+    Console.WriteLine("1 - Clientes");
+    Console.WriteLine("2 - Clinica");
+    Console.WriteLine("3 - Doutor");
+    Console.WriteLine("4 - Animal");
 
     option = Convert.ToInt32(Console.ReadLine());
 
